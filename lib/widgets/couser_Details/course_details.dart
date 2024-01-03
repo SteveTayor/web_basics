@@ -10,7 +10,7 @@ class CourseDetails extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisAlignment: MainAxisAlignment.center,
-        children: [
+        children: const [
           Text(
             'FLUTTER WEB,\nThe Basics',
             style: TextStyle(
